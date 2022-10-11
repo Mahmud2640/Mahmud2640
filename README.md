@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://mahmud.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://mahmud-dev.web.app/)**
 
 - 📫 How to reach me **mdmahmud484@gmail.com**
 
